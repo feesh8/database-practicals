@@ -1,4 +1,4 @@
-# Practical 2 - Designing a database
+# Practical 2 - Thinking a database
 
 The aim of this practical work is to propose a solution for the company Petit Commerce by designing a database to address various challenges identified in the provided subject.
 
